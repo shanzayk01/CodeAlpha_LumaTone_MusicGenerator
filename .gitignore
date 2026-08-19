@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+generated/*.mid
+generated/*.midi
+models/*.keras
+models/*.h5
+models/*.json
+data/midi/*.mid
+data/midi/*.midi
