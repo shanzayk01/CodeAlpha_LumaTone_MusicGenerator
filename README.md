@@ -58,6 +58,7 @@ LumaTone_MusicGenerator/
 ├── requirements-training.txt
 ├── README.md
 └── .gitignore
+```
 
 ## How It Works
 
