@@ -115,4 +115,7 @@ Possible future improvements include:
 
 ## Author
 
+**Shanzay Kamran**
+
+GitHub: [@shanzayk01](https://github.com/shanzayk01)
 Developed as part of a music-generation application project.
