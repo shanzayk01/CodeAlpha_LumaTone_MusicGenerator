@@ -62,11 +62,11 @@ LumaTone_MusicGenerator/
 
 ## How It Works
 
-1. **Select a musical style.**
-2. **Adjust the desired music length and energy.**
-3. **Generate a new piece.**
-4. **Listen to the generated result in the browser.**
-5. **Download the generated MIDI file.**
+**1.** Select a musical style
+**2.** Adjust the desired music length and energy
+**3.** Generate a new piece
+**4.** Listen to the generated result in the browser
+**5.** Download the generated MIDI file.
 
 Each generation can produce a different musical variation, allowing users to experiment with different combinations of styles and settings.
 
