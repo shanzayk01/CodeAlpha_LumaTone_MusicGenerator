@@ -80,12 +80,12 @@ The project focuses on making music creation simple and approachable while allow
 
 Possible future improvements include:
 
-**-** Adding more musical styles
-**-** Adding more instruments
-**-** Improving melody and rhythm variation
-**-** Adding additional audio formats
-**-** Providing more control over musical parameters
-**-** Improving the user interface and playback experience
+**-** Adding more musical styles  
+**-** Adding more instruments  
+**-** Improving melody and rhythm variation  
+**-** Adding additional audio formats  
+**-** Providing more control over musical parameters  
+**-** Improving the user interface and playback experience  
 
 ## Author
 
