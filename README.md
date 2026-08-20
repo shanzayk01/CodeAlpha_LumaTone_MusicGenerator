@@ -10,13 +10,13 @@ The application allows users to choose a music style, adjust the length and ener
 
 ## Features
 
-**-** Generate original instrumental music
-**-** Choose from multiple musical styles
-**-** Adjust the length of the generated music
-**-** Control the energy level
-**-** Listen to generated music directly in the application
-**-** Download generated music as MIDI files
-**-** Generate different musical variations using the same settings
+**-** Generate original instrumental music  
+**-** Choose from multiple musical styles  
+**-** Adjust the length of the generated music  
+**-** Control the energy level  
+**-** Listen to generated music directly in the application  
+**-** Download generated music as MIDI files  
+**-** Generate different musical variations using the same settings  
 
 ## Music Styles
 
@@ -62,11 +62,11 @@ LumaTone_MusicGenerator/
 
 ## How It Works
 
-**1.** Select a musical style  
-**2.** Adjust the desired music length and energy  
-**3.** Generate a new piece  
-**4.** Listen to the generated result in the browser  
-**5.** Download the generated MIDI file
+**1.** Select a musical style    
+**2.** Adjust the desired music length and energy    
+**3.** Generate a new piece    
+**4.** Listen to the generated result in the browser    
+**5.** Download the generated MIDI file  
 
 Each generation can produce a different musical variation, allowing users to experiment with different combinations of styles and settings.
 
